@@ -1,11 +1,26 @@
-# Yo, Swaroop here! 👋
-
-Glad you’re here—at least someone’s reading this! When I’m not deep in the [0,1] matrix, I’m probably debugging life itself. This is my little corner of GitHub, where you’ll find a bit of everything: projects, experiments (the ones I remember, anyway), and a pretty hefty mix of tools and languages. If you’ve got a passion for tech—or just a weakness for shiny new frameworks—grab a seat, and let’s dig in.
-
-\> Got an idea? I’m just a ping away. Open to collabs, coffee chats, or whatever randomness you’ve got in mind. ☕🤝
+# Yo, Swaroop here! 👋 
+![Avatar](https://avatars.githubusercontent.com/u/57614947?s=80)
 
 
-## Tools, Languages, and Frameworks 🛠️
+Hey there! Awesome to see someone taking a peek into my corner of the web! When I’m not deep in the [0,1] matrix, I’m probably debugging life itself. Welcome to my space of GitHub, where you’ll find a bit of everything: projects, experiments (the ones I remember, anyway), and a pretty hefty mix of some tools and languages. 
+If you’ve got a passion for tech and wanted to explore code, projects and frameworks—grab a seat, and let’s dig in.
+
+\> Got an idea? I’m just a ping away. Open to collabs, chats, or whatever randomness you’ve got in mind.
+
+### Socials 🤝
+
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:maddisaiswaroop@gmail.com)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/5war00p/)
+  [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/531764311220027392)
+  [<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />](https://x.com/5war00p)
+  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/mr5war00p)
+  [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+919490759561)
+  [<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11784338/5war00p)
+  [<img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />](https://www.reddit.com/user/5war00p/)
+  
+
+
+### Tools, Languages, and Frameworks 🛠️
 
 - Fronted
 
@@ -143,7 +158,7 @@ Glad you’re here—at least someone’s reading this! When I’m not deep in t
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
-##  Trophies & Stats 🏆
+###  Trophies & Stats 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5war00p&no-frame=true&margin-w=12&margin-h=12&theme=onedark)](https://github.com/5war00p/github-profile-trophy)
 
