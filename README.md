@@ -144,6 +144,10 @@ Glad you’re here—at least someone’s reading this! When I’m not deep in t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5war00p&no-frame=true&margin-w=12&margin-h=12&theme=onedark)](https://github.com/5war00p/github-profile-trophy)
 
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=5war00p&show_icons=true&theme=onedark" alt="5war00p" />
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=5war00p&theme=onedark" alt="5war00p" />
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5war00p&show_icons=true&theme=onedark&layout=donut-vertical" alt="5war00p" />
+  <div style="display:flex;">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=5war00p&show_icons=true&theme=onedark" alt="5war00p" />
+    <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=5war00p&theme=onedark" alt="5war00p" />
+  </div>
+</div>
