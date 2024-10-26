@@ -162,6 +162,6 @@ If you’ve got a passion for tech and wanted to explore code, projects and fram
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5war00p&no-frame=true&margin-w=12&margin-h=12&theme=onedark)](https://github.com/5war00p/github-profile-trophy)
 
-<img align="left" height="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=5war00p&show_icons=true&theme=onedark&layout=donut-vertical" alt="5war00p" />
+<img align="left" width="300px" height="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=5war00p&show_icons=true&theme=onedark&layout=donut-vertical" alt="5war00p" />
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=5war00p&show_icons=true&theme=onedark" alt="5war00p" />
 <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=5war00p&theme=onedark" alt="5war00p" />
