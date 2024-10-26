@@ -96,8 +96,11 @@ Glad you’re here—at least someone’s reading this! When I’m not deep in t
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -144,6 +147,6 @@ Glad you’re here—at least someone’s reading this! When I’m not deep in t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=5war00p&no-frame=true&margin-w=12&margin-h=12&theme=onedark)](https://github.com/5war00p/github-profile-trophy)
 
-<img align="left" height="410px" src="https://github-readme-stats.vercel.app/api/top-langs?username=5war00p&show_icons=true&theme=onedark&layout=donut-vertical" alt="5war00p" />
+<img align="left" height="420px" src="https://github-readme-stats.vercel.app/api/top-langs?username=5war00p&show_icons=true&theme=onedark&layout=donut-vertical" alt="5war00p" />
 <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=5war00p&show_icons=true&theme=onedark" alt="5war00p" />
 <img align="center" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=5war00p&theme=onedark" alt="5war00p" />
